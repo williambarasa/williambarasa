@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aternolinux
 - I am pretty young for a programmer.
-- Believe it or not, i am 9 years old and hope to get a degree in computer programming.
+- Believe it or not, i am 13 years old and hope to get a degree in computer programming.
 - 👀 I’m interested in programming its been my dream
-- 🌱 I’m currently learning school since im still a child.
+- 🌱 I’m currently still in school.
 - 💞️ I’m looking to collaborate on nothing. im not interested 
 - 📫 How to reach me my email is williambarasa2310@gmail.com
 
