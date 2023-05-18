@@ -28,9 +28,9 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
  .... And also my email is williambarasa2310@gmail.com
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aternolinux&show_icons=true&theme=dark)](https://github.com/aternolinux)
 
-##
-
-[![C language   logo](https://en.m.wikipedia.org/wiki/File:The_C_Programming_Language_logo.svg)](https://learn-c.org) 
+### Skills 
+<p align="left"> 
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 
 
 <!---
