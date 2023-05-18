@@ -28,6 +28,11 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
  .... And also my email is williambarasa2310@gmail.com
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aternolinux&show_icons=true&theme=dark)](https://github.com/aternolinux)
 
+##
+#Skills
+[![C language logo](https://www.pinterest.com/pin/813110907714010025/)](https://learn-c.org)
+
+
 <!---
 aternolinux/aternolinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
