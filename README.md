@@ -30,7 +30,7 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
 
 ##
 
-[![C language       logo](https://www.pinterest.com/pin/813110907714010025/)](https://learn-c.org) 
+[![C language   logo](https://en.m.wikipedia.org/wiki/File:The_C_Programming_Language_logo.svg)](https://learn-c.org) 
 
 
 <!---
