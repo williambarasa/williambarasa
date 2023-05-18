@@ -29,8 +29,8 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aternolinux&show_icons=true&theme=dark)](https://github.com/aternolinux)
 
 ##
-#Skills
-[![C language logo](https://www.pinterest.com/pin/813110907714010025/)](https://learn-c.org)
+
+[![C language       logo](https://www.pinterest.com/pin/813110907714010025/)](https://learn-c.org) 
 
 
 <!---
