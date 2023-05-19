@@ -27,9 +27,9 @@ I am always eager to learn and expand my programming knowledge. Whether it invol
 In conclusion, I am William, an enthusiastic programmer with expertise in Bash, Python, and C programming languages. At the age of 13 and still in school, I am excited to continue my programming journey, fueled by determination and a thirst for knowledge. I am thrilled to be a part of this vibrant community and look forward to sharing and learning from each other's experiences.
  .... And also my email is williambarasa2310@gmail.com
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aternolinux&show_icons=true&theme=dark)](https://github.com/aternolinux)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=williambarasa&show_icons=true&theme=dark)](https://github.com/williambarasa)
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aternolinux&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williambarasa&theme=dark)
 
 
 
