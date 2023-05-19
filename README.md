@@ -28,8 +28,9 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
  .... And also my email is williambarasa2310@gmail.com
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aternolinux&show_icons=true&theme=dark)](https://github.com/aternolinux)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aternolinux&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aternolinux)
 
 
 ### Skills 
