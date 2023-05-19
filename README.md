@@ -38,7 +38,7 @@ In conclusion, I am William, an enthusiastic programmer with expertise in Bash, 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/png/monochrome_dark.png" width="36" height="36" alt="Bash" /></a>
-
+</p>
 
 <!---
 aternolinux/aternolinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
