@@ -12,7 +12,7 @@ Hello, everyone! My name is William, and I am thrilled to share my passion for p
 
 ### Python
 - Python, with its readable syntax and extensive libraries, has been an incredible tool in my programming journey.
-- I have used Python for a variety of projects, ranging from web development to data analysis and even machine learning.
+- I have used Python for a variety of projects,Like game development, automation and game exploitation.
 - The versatility of Python allows me to tackle diverse programming tasks with ease.
 
 ## Learning and Growth
